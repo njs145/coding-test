@@ -1,0 +1,285 @@
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -o build/app build/main.o
+[INFO] EXEC: build/app
+
+acst
+acsw
+actw
+astw
+cist
+cisw
+citw
+istw
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -o build/app build/main.o
+[INFO] EXEC: build/app
+
+1
+1
+1
+1
+1
+1
+1
+acst
+1
+acsw
+1
+actw
+1
+1
+1
+1
+1
+1
+1
+astw
+1
+cist
+1
+cisw
+1
+citw
+1
+istw
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+[ERROR] COMPILE FIAL
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -o build/app build/main.o
+[INFO] EXEC: build/app
+
+1
+1
+1
+1
+acst
+1
+acsw
+1
+actw
+1
+1
+1
+1
+astw
+1
+cist
+1
+cisw
+1
+citw
+1
+1
+istw
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -o build/app build/main.o
+[INFO] EXEC: build/app
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+acst
+1
+1
+acsw
+1
+1
+1
+actw
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+astw
+1
+1
+1
+1
+1
+1
+1
+1
+1
+cist
+1
+1
+cisw
+1
+1
+1
+citw
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+istw
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -o build/app build/main.o
+[INFO] EXEC: build/app
+
+1
+1
+1
+1
+1
+acst
+1
+acsw
+1
+actw
+1
+1
+1
+1
+astw
+1
+cist
+1
+cisw
+1
+citw
+1
+1
+istw
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -o build/app build/main.o
+[INFO] EXEC: build/app
+
+1
+1
+1
+1
+1
+acst
+1
+acsw
+1
+actw
+1
+1
+1
+1
+astw
+1
+cist
+1
+cisw
+1
+citw
+1
+1
+istw
+Clean build
+rm -rf build
+[INFO] Start build. target DIR: ex17
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -c ex17/main.cpp -o build/main.o
+/usr/bin/aarch64-linux-gnu-g++ -Wall -O2 -std=c++17 -o build/app build/main.o
+[INFO] EXEC: build/app
+
